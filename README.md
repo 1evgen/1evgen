@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **"WoofWorld"**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **React js**
 
 - 🤝 I’m looking for help with **Collaborating on exciting projects and learning from fellow developers.**
 
