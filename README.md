@@ -15,14 +15,8 @@
 
 - ⚡ Fun fact **I like pug dogs**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/1evgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="1evgen" height="30" width="40" /></a>
-<a href="linkedin.com/in/evgenii-goncharov-08091827b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgenii goncharov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22254450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22254450" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1evgen&show_icons=true&locale=en" alt="1evgen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1evgen&" alt="1evgen" /></p>
+
