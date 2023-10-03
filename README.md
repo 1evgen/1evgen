@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 🤝 I’m looking for help with **Collaborating on exciting projects and learning from fellow developers.**
+- 🤝 I’m looking for **Collaborating on exciting projects and learning from fellow developers.**
 
 - 📫 How to reach me **evgusa83@gmail.com**
 
